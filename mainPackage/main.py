@@ -13,6 +13,5 @@
 from apiPackage.api import myAPI
 from dataPackage.data import printInfo
 
-
 if __name__ == "__main__":
     printInfo()
